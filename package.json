@@ -1,0 +1,13 @@
+{
+  "name" : "plopbox",
+  "description" : "Quick and dirty rsync on file change",
+  "version" : "0.0.1",
+  "author" : "Van Nguyen <thegoleffect@gmail.com>",
+  "repository" : "git://github.com/thegoleffect/plopbox",
+  "main" : "index",
+  "engines" : {"node" : ">=0.6.0"},
+  "dependencies": {
+    "watch": "*"
+  },
+  "scripts": {}
+}
